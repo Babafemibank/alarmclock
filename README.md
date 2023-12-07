@@ -27,9 +27,7 @@ Users should be able to:
 - Set multiple Alarm time. 
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://babafemibank.github.io/alarmclock/)
 
 
 
